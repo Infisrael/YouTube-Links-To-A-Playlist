@@ -12,5 +12,5 @@ mhAHMcCBOhR
 ZEyWokXfq20  
 R6zFV7J9tG0  
 
-Add [Multiselect for YouTube™](https://chrome.google.com/webstore/detail/multiselect-for-youtube/gpgbiinpmelaihndlegbgfkmnpofgfei) to Google Chrome
-Add [Multiselect for YouTube™](https://addons.mozilla.org/en-US/firefox/addon/multiselect-for-youtube/) to Firefox
+Add [Multiselect for YouTube™](https://chrome.google.com/webstore/detail/multiselect-for-youtube/gpgbiinpmelaihndlegbgfkmnpofgfei) to Google Chrome.  
+Add [Multiselect for YouTube™](https://addons.mozilla.org/en-US/firefox/addon/multiselect-for-youtube/) to Firefox.
