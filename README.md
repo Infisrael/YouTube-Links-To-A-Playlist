@@ -2,6 +2,7 @@
 A tool to add bulk YouTube videos to a playlist
 
 YouTube links should be listed as Video IDs in a text file called `list.txt`.
+
 For example: 
 
 
