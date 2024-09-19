@@ -1,8 +1,7 @@
-# YouTube-Links-To-A-Playlist
+# 🔗 YouTube Link Extractor
 A tool to add bulk YouTube videos to a playlist
 
 YouTube links should be listed as Video IDs in a text file called `list.txt`.
-
 For example: 
 
 
@@ -14,3 +13,6 @@ R6zFV7J9tG0
 
 Add [Multiselect for YouTube™](https://chrome.google.com/webstore/detail/multiselect-for-youtube/gpgbiinpmelaihndlegbgfkmnpofgfei) to Google Chrome.  
 Add [Multiselect for YouTube™](https://addons.mozilla.org/en-US/firefox/addon/multiselect-for-youtube/) to Firefox.
+
+## ✍ Authors
+- [@Infisrael](https://www.github.com/Infisrael)
